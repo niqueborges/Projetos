@@ -1,4 +1,4 @@
-# Programar em Python, um programa capaz de perguntaro o nome do aluno, ler o nome do aluno, 
+# Programar em Python, um programa capaz de perguntar o nome do aluno, ler o nome do aluno, 
 # perguntar a 1º nota e a 2º nota do aluno, verificar se a média do aluno é maior ou igual a 7,
 # caso seja, escrever aluno aprovado, senão escrever aluno reprovado na tela.
 
