@@ -1,0 +1,19 @@
+-> O que é programação ?
+-> Ambientes virtuais
+    # Windows: venv\scripts\Activate
+    Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+-> Variáveis
+-> Saída de dados
+-> Entrada de dados
+-> Conversão de dados
+-> Operadores matemáticos (+ - * ** / // %)
+-> Operadores relacionais (== > < >= <=)
+-> Operadores lógicos [and or not]
+-> Estrutura de decisão (if else elif)
+-> Estrutura de repetição
+    -> While
+    -> For
+
+-> Estrutura de dados
+    -> listas
+    -> Dicionários
