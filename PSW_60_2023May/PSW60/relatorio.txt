@@ -9,8 +9,8 @@
     -> bool: True, False
 
 -> Tipos de dados [x]
--> Saída de dados [x]
--> Entrada de dados
+-> Saída de dados [x] # Print
+-> Entrada de dados [x]  # Input
 -> Conversão de dados
 -> Operadores matemáticos (+ - * ** / // %)
 -> Operadores relacionais (== > < >= <=)
