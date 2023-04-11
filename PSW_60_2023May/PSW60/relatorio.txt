@@ -11,7 +11,7 @@
 -> Tipos de dados [x]
 -> Saída de dados [x] # Print
 -> Entrada de dados [x]  # Input
--> Conversão de dados
+-> Conversão de dados [x]
 -> Operadores matemáticos (+ - * ** / // %)
 -> Operadores relacionais (== > < >= <=)
 -> Operadores lógicos [and or not]
