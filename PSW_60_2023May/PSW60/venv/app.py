@@ -23,3 +23,24 @@
 # somatoria = prova1 + prova2
 # print(somatoria)
 
+#Operadores Matemáticos
+
+prova1 = 10
+prova2 = 5
+soma = prova1 + prova2
+subtracao = prova1 - prova2
+multiplicacao = prova1 * prova2
+divisao = prova1 / prova2
+exponenciacao = prova1 ** prova2
+divisaoporinteiro = prova1 // prova2
+modulo = prova1 % prova2
+print(soma, subtracao, multiplicacao, divisao, exponenciacao, modulo)
+
+prova1 = 10
+prova2 = 5
+media = (prova1 + prova2) / 2
+print(f"A média é: {media}")
+
+
+
+

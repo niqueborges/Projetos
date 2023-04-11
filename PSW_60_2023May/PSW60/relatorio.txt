@@ -12,7 +12,7 @@
 -> Saída de dados [x] # Print
 -> Entrada de dados [x]  # Input
 -> Conversão de dados [x]
--> Operadores matemáticos (+ - * ** / // %)
+-> Operadores matemáticos (+ - * ** / // %) [x] precedência ** > * / // % > + -
 -> Operadores relacionais (== > < >= <=)
 -> Operadores lógicos [and or not]
 -> Estrutura de decisão (if else elif)
