@@ -12,8 +12,8 @@
 -> Saída de dados [x] # Print
 -> Entrada de dados [x]  # Input
 -> Conversão de dados [x]
--> Operadores matemáticos (+ - * ** / // %) [x] precedência ** > * / // % > + -
--> Operadores relacionais (== > < >= <=)
+-> Operadores matemáticos (+ - * ** / // %) [x] precedência ** > * / // % > + - [x]
+-> Operadores relacionais (== > < >= <= !=) [x]
 -> Operadores lógicos [and or not]
 -> Estrutura de decisão (if else elif)
 -> Estrutura de repetição

@@ -23,33 +23,46 @@
 # somatoria = prova1 + prova2
 # print(somatoria)
 
-#Operadores Matemáticos (+ - * ** / // %) precedência ** > * / // % > + -
+# Operadores Matemáticos (+ - * ** / // %) precedência ** > * / // % > + -
 
-prova1 = 10
-prova2 = 5
-soma = prova1 + prova2
-subtracao = prova1 - prova2
-multiplicacao = prova1 * prova2
-divisao = prova1 / prova2
-exponenciacao = prova1 ** prova2
-divisaoporinteiro = prova1 // prova2
-modulo = prova1 % prova2
-print(soma, subtracao, multiplicacao, divisao, exponenciacao, modulo)
+# prova1 = 10
+# prova2 = 5
+# soma = prova1 + prova2
+# subtracao = prova1 - prova2
+# multiplicacao = prova1 * prova2
+# divisao = prova1 / prova2
+# exponenciacao = prova1 ** prova2
+# divisaoporinteiro = prova1 // prova2
+# modulo = prova1 % prova2
+# print(soma, subtracao, multiplicacao, divisao, exponenciacao, modulo)
 
-prova1 = 10
-prova2 = 5
-media = (prova1 + prova2) / 2
-print(f"A média é: {media}")
+# prova1 = 10
+# prova2 = 5
+# media = (prova1 + prova2) / 2
+# print(f"A média é: {media}")
 
 
 # Operadores relacionais (== > < >= <= !=)
 
+# prova1 = 10
+# prova2 = 5
+# igual = prova1 == prova2
+# maior = prova1 > prova2
+# menor = prova1 < prova2
+# menor_igual = prova1 <= prova2
+# maior_igual = prova1 >= prova2
+# diferente = prova1 != prova2
+# print(igual, maior, menor, menor_igual, maior_igual, diferente)
+
+# Operadores lógicos [and or not]
+
 prova1 = 10
 prova2 = 5
-igual = prova1 == prova2
-maior = prova1 > prova2
-menor = prova1 < prova2
-menor_igual = prova1 <= prova2
-maior_igual = prova1 >= prova2
-diferente = prova1 != prova2
-print(igual, maior, menor, menor_igual, maior_igual, diferente)
+
+E = True and True
+E = True and False
+Ou = True or True
+Ou = True or False
+Nao = not True
+Nao = not False
+print(E, Ou, Nao)
