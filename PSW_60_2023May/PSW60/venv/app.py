@@ -23,7 +23,7 @@
 # somatoria = prova1 + prova2
 # print(somatoria)
 
-#Operadores Matemáticos
+#Operadores Matemáticos (+ - * ** / // %) precedência ** > * / // % > + -
 
 prova1 = 10
 prova2 = 5
@@ -42,5 +42,14 @@ media = (prova1 + prova2) / 2
 print(f"A média é: {media}")
 
 
+# Operadores relacionais (== > < >= <= !=)
 
-
+prova1 = 10
+prova2 = 5
+igual = prova1 == prova2
+maior = prova1 > prova2
+menor = prova1 < prova2
+menor_igual = prova1 <= prova2
+maior_igual = prova1 >= prova2
+diferente = prova1 != prova2
+print(igual, maior, menor, menor_igual, maior_igual, diferente)
