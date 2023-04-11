@@ -5,10 +5,11 @@
 -> Variáveis [x]
     -> int: 10, 1000, 9000, -2, -2500
     -> float: 10.5, 150.543, 1000.1, -2.5
-    -> string: 'Caio', 'Aula no Youtube', 'VSCode'
-    -> bool:
+    -> string: 'Caio', 'Aula no Youtube', 'VSCode', '10'
+    -> bool: True, False
+
 -> Tipos de dados [x]
--> Saída de dados
+-> Saída de dados [x]
 -> Entrada de dados
 -> Conversão de dados
 -> Operadores matemáticos (+ - * ** / // %)
