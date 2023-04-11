@@ -1,8 +1,13 @@
--> O que é programação ?
--> Ambientes virtuais
+-> O que é programação ? [x]
+-> Ambientes virtuais [x]
     # Windows: venv\scripts\Activate
     Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
--> Variáveis
+-> Variáveis [x]
+    -> int: 10, 1000, 9000, -2, -2500
+    -> float: 10.5, 150.543, 1000.1, -2.5
+    -> string: 'Caio', 'Aula no Youtube', 'VSCode'
+    -> bool:
+-> Tipos de dados [x]
 -> Saída de dados
 -> Entrada de dados
 -> Conversão de dados
