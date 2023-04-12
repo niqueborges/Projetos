@@ -14,7 +14,7 @@
 -> Conversão de dados [x]
 -> Operadores matemáticos (+ - * ** / // %) [x] precedência ** > * / // % > + - [x]
 -> Operadores relacionais (== > < >= <= !=) [x]
--> Operadores lógicos [and or not]
+-> Operadores lógicos [and or not] [x]
 -> Estrutura de decisão (if else elif)
 -> Estrutura de repetição
     -> While
@@ -23,3 +23,4 @@
 -> Estrutura de dados
     -> listas
     -> Dicionários
+-> Funções

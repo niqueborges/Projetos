@@ -56,13 +56,20 @@
 
 # Operadores lógicos [and or not]
 
-prova1 = 10
-prova2 = 5
+# prova1 = 10
+# prova2 = 5
 
-E = True and True
-E = True and False
-Ou = True or True
-Ou = True or False
-Nao = not True
-Nao = not False
-print(E, Ou, Nao)
+# E = True and True
+# E = True and False
+# Ou = True or True
+# Ou = True or False
+# Nao = not True
+# Nao = not False
+# print(E, Ou, Nao)
+
+# prova1 = int(input("Digite a nota da prova1: "))
+# prova2 = int(input("Digite a nota da prova2: "))
+# media_do_aluno = (prova1 + prova2) / 2
+# resultado = media_do_aluno < 6 and media_do_aluno >= 4
+# print(resultado)
+
