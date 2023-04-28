@@ -1,4 +1,4 @@
-# idade = 37
+'''idade = 37
 # nome = "Monique"
 # dado = 1
 # print(type(dado)) # tipo de dado
@@ -71,5 +71,5 @@
 # prova2 = int(input("Digite a nota da prova2: "))
 # media_do_aluno = (prova1 + prova2) / 2
 # resultado = media_do_aluno < 6 and media_do_aluno >= 4
-# print(resultado)
+# print(resultado)'''
 
