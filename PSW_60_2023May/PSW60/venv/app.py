@@ -73,3 +73,22 @@ media_do_aluno = (prova1 + prova2) / 2
 resultado = media_do_aluno < 6 and media_do_aluno >= 4
 print(resultado)'''
 
+try:
+    value = input("Entre um valor: ")
+    print(value/value)
+except ValueError:
+    print("Entrada incorreta...")
+except ZeroDivisionError:
+    print("Entrada muito ruim...")
+except TypeError:
+    print("muito muito ruim entrada...")
+except:
+    print("Booo!")
+    
+try:
+    print(5/0)
+    break
+except:
+    print("Desculpe, algo deu errado...")
+except (ValueError, ZeroDivisionError):
+    print("Muito ruim...")
