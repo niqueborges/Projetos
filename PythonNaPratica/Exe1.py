@@ -1,6 +1,6 @@
-# Crie três variáveis com três tipos de dados diferentes, respeitando sua sintaxe
-# Crie um comentário de no máximo uma linha
-# Crie um comentário de mais de uma linha
+# Crie três variáveis com três tipos de dados diferentes, respeitando sua sintaxe.
+# Crie um comentário de no máximo uma linha.
+# Crie um comentário de mais de uma linha.
 
 nome = 'Fernando'
 ano = 1987
