@@ -1,7 +1,7 @@
-'''Crie um programa que realiza a contagem de 0 a 20, exibindo apenas os númros pares.'''
+# Crie um programa que realiza a contagem de 0 a 20, exibindo apenas os númros pares.
 
 
 for i in range(0, 21):
-if i % 2 == 0:
-    print(i)
+    if i % 2 == 0:
+        print(i)
  
