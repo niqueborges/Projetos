@@ -1,4 +1,5 @@
-'''Crie um programa que pede que o usuário digite um nome ou uma frase, verifique se esse conteúdo digitado é um palíndromo ou não, exibindo em tela esse resultado.'''
+'''Crie um programa que pede que o usuário digite um nome ou uma frase, 
+verifique se esse conteúdo digitado é um palíndromo ou não, exibindo em tela esse resultado.'''
 
 frase = str(input('Digite uma palavra ou frase: ')).strip().upper()
 palavras = frase.split()
